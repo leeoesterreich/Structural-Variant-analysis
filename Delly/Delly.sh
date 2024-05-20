@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# This script is used for the structural variant discovery by Delly through integrated paired-end and split-read analysis
-
 # Author=Rahul_kumar/LeeOestereich lab
 
 #SBATCH --job-name=Delly
