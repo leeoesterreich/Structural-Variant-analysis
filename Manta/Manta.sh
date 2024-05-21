@@ -10,6 +10,7 @@
 
 # Modules required
 module purge
+module load gcc/8.2.0
 module load manta/1.6.0
 
 # Create new directory
