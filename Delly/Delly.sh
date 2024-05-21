@@ -10,6 +10,7 @@
 
 # Modules required
 module purge
+module load gcc/8.2.0
 module load delly/1.0.3
 
 #Create new directory
