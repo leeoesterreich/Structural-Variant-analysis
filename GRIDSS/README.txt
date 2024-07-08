@@ -1,0 +1,1 @@
+# This script is used for the structural variant discovery by GRIDSS (Genomic Rearrangement IDentification Software Suite), based on alignment-guided positional de Bruijn graph genome-wide break-end assembly, split read, and read pair evidence (https://github.com/PapenfussLab/gridss/).
